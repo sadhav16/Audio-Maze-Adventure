@@ -83,14 +83,10 @@ These emojis serve both visually impaired and partially sighted users by offerin
 
 ---
 
-## 🚀 How to Run
+## 🎮 Live Demo
 
-This project is built with vanilla JavaScript and HTML. To run locally:
+[Click here to play the game](https://audio-maze-adventure.vercel.app/)
 
-1. Open `index.html` directly in a web browser (double-click or open with browser).
-2. Ensure your browser supports the Web Speech API (Chrome or Firefox recommended).
-
-You can also deploy the project on platforms like [Render](https://render.com/) or GitHub Pages. Ensure that the `index.html` is set as the root entry file during deployment.
 
 ---
 
